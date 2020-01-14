@@ -1,5 +1,5 @@
 {
-  "name": "Kuro's Heroku NadekoBot",
+  "name": "Peachii",
   "description": "Additional changes to Kuro's NadekoBot. Please read the README carefully.",
   "keywords": [
     "Heroku",
@@ -10,7 +10,7 @@
     "Kuro"
   ],
   "website": "https://nadekobot.me/",
-  "repository": "https://github.com/ScarletKuro/NadekoBot",
+  "repository": "https://github.com/Loudawg11/peachii",
   "logo": "https://nadekobot.me/static/media/nadeko-top.ad6cc06a.png",
   
   "addons": [
