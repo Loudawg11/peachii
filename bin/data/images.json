@@ -9,10 +9,9 @@
     ]
   },
   "Currency": [
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/0.png",
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/1.png",
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/2.png",
-    "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/currency/3.png"
+    "https://i.imgur.com/1VWTi1N.png",
+    "https://i.imgur.com/1VWTi1N.png",
+    "https://i.imgur.com/1VWTi1N.png"
   ],
   "Dice": [
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/dice/0.png",
@@ -31,7 +30,7 @@
     "Dot": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rategirl/dot.png"
   },
   "Xp": {
-    "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/xp/bg.png"
+    "Bg": "https://i.imgur.com/mWMlpqn.png"
   },
   "Rip": {
     "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/rip/rip.png",
@@ -58,6 +57,6 @@
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/numbers/8.png",
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/numbers/9.png"
     ],
-    "Bg": "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/bg.png"
+    "Bg": "https://i.imgur.com/g2xjsJ0.png"
   }
 }
